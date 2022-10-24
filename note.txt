@@ -1,0 +1,5 @@
+telechargena le kafka de apetraka am dossier izay ametrahana azy
+mila lancena aloha ny :
+    zookeper ./bin/zookeeper-server-start.sh config/zookeeper.properties
+    broker ./bin/kafka-server-start.sh config/server.properties
+    izay vo go run
